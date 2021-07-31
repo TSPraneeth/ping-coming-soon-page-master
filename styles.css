@@ -166,4 +166,14 @@ body
     {
         text-align: left;
     }
+
+    .heading
+    {
+        font-size: 2.5rem;
+    }
+
+    .desc
+    {
+        font-size: 1.2rem;
+    }
 }
